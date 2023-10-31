@@ -95,6 +95,6 @@ function alertUser(message) {
 
         referências:
           - MDN WEB DOCS. Return. 2023. Disponível em: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/return#description. Acesso em: 31 out. 2023.
-          - MDN WEB DOCS. Promise() constructor. 2023. Disponível em: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/return#description. Acesso em: 31 out. 2023.
+          - MDN WEB DOCS. Promise() constructor. 2023. Disponível em: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/Promise#description. Acesso em: 31 out. 2023.
         
 */
