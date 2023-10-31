@@ -1,5 +1,6 @@
 # diario-escola
 
+### Descrição
 Esse projeto contém minha resolução para os desafios do processo seletivo da empresa [Diario Escola](https://diarioescola.com.br/).
 
 ### Estrutura
